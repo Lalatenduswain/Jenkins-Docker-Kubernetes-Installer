@@ -20,8 +20,8 @@ Ensure your system meets the following requirements:
 ```bash
 sudo apt install -y git
 cd /opt
-sudo git clone https://github.com/Lalatenduswain/Install-Jenkins-Docker.git
-cd Install-Jenkins-Docker
+sudo https://github.com/Lalatenduswain/Jenkins-Docker-Kubernetes-Installer.git
+cd Jenkins-Docker-Kubernetes-Installer
 ```
 
 ### **Run the Installer**
