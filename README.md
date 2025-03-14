@@ -64,16 +64,3 @@ If you find this script useful, consider supporting its development:
 ## ❓ Support or Contact
 
 Encountering issues? Submit an issue on our [GitHub Issues Page](https://github.com/Lalatenduswain/Install-Jenkins-Docker/issues).
-
----
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/S-bTmTY8ceU/0.jpg)](https://youtu.be/S-bTmTY8ceU)
-
-## 💰 FUNDING.yml (For GitHub Sponsorship)
-Create a `FUNDING.yml` file in `.github` directory:
-
-```yaml
-github: [Lalatenduswain]
-patreon: lalatenduswain
-tidelift: lalatendu/swain
-custom: ["https://www.paypal.com/paypalme/lalatenduswain", "https://buymeacoffee.com/lalatendu.swain"]
-```
