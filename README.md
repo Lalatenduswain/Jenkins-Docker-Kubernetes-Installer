@@ -63,4 +63,4 @@ If you find this script useful, consider supporting its development:
 
 ## ❓ Support or Contact
 
-Encountering issues? Submit an issue on our [GitHub Issues Page](https://github.com/Lalatenduswain/Install-Jenkins-Docker/issues).
+Encountering issues? Submit an issue on our [GitHub Issues Page](https://github.com/Lalatenduswain/Jenkins-Docker-Kubernetes-Installer/issues).
